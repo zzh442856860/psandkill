@@ -1,0 +1,1 @@
+qt---将ps和kill命令结合，成为psandkill命令  ---》  psandkill name
